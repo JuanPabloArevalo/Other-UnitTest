@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="OperrationTest" project="unitTest" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="unitTest.OperrationTest" time="0.004">
-    <testcase name="FalseTest" classname="unitTest.OperrationTest" time="0.003"/>
-    <testcase name="TrueTest" classname="unitTest.OperrationTest" time="0.0"/>
-  </testsuite>
-</testrun>
